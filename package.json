@@ -1,0 +1,27 @@
+{
+  "name": "web-app-demo",
+  "version": "1.0.0",
+  "description": "Plantilla para una aplicacion web para foro 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalmaraz/web-app-demo.git"
+  },
+  "keywords": [
+    "foro1",
+    "implmentacion"
+  ],
+  "author": "aalmaraz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalmaraz/web-app-demo/issues"
+  },
+  "homepage": "https://github.com/aalmaraz/web-app-demo#readme",
+  "dependencies": {
+    "fastify": "^3.13.0",
+    "fastify-static": "^4.0.1"
+  }
+}
